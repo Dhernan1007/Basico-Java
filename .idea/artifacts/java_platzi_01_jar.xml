@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="java_platzi_01:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_platzi_01_jar</output-path>
+    <root id="archive" name="java_platzi_01.jar">
+      <element id="module-output" name="java_platzi_01" />
+    </root>
+  </artifact>
+</component>
